@@ -1,0 +1,95 @@
+[
+  {
+    "table": "customers",
+    "total_rows": 5000,
+    "valid_rows": 5000,
+    "pass_rate": 100.0,
+    "issues": [
+      {
+        "rule": "invalid_email_format",
+        "count": "0",
+        "details": ""
+      }
+    ]
+  },
+  {
+    "table": "products",
+    "total_rows": 500,
+    "valid_rows": 500,
+    "pass_rate": 100.0,
+    "issues": [
+      {
+        "rule": "non_positive_unit_price",
+        "count": "0",
+        "details": ""
+      },
+      {
+        "rule": "negative_cost_price",
+        "count": "0",
+        "details": ""
+      },
+      {
+        "rule": "inverted_margin",
+        "count": "0",
+        "details": ""
+      }
+    ]
+  },
+  {
+    "table": "orders",
+    "total_rows": 30000,
+    "valid_rows": 30000,
+    "pass_rate": 100.0,
+    "issues": [
+      {
+        "rule": "negative_total_amount",
+        "count": "0",
+        "details": ""
+      },
+      {
+        "rule": "invalid_status",
+        "count": "0",
+        "details": ""
+      }
+    ]
+  },
+  {
+    "table": "payments",
+    "total_rows": 22491,
+    "valid_rows": 22491,
+    "pass_rate": 100.0,
+    "issues": [
+      {
+        "rule": "null_amount",
+        "count": "0",
+        "details": ""
+      }
+    ]
+  },
+  {
+    "table": "reviews",
+    "total_rows": 15000,
+    "valid_rows": 15000,
+    "pass_rate": 100.0,
+    "issues": [
+      {
+        "rule": "invalid_rating",
+        "count": "0",
+        "details": ""
+      }
+    ]
+  },
+  {
+    "table": "clickstream",
+    "total_rows": 100000,
+    "valid_rows": 99998,
+    "pass_rate": 100.0,
+    "issues": [
+      {
+        "rule": "null_timestamp",
+        "count": "0",
+        "details": ""
+      }
+    ]
+  }
+]

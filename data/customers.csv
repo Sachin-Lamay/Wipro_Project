@@ -1,0 +1,501 @@
+product_id,product_name,category_id,category_name,subcategory_name,brand,sku,unit_price,cost_price,weight_kg,is_active,launch_date,gross_margin_pct
+PROD-24D1B9CC,ReadMore Decor Model-155,CAT-010,Home & Garden,Decor,Homeplus,SKU-259988,1590.86,949.52,19.34,True,2021-07-12,40.31
+PROD-B8B3A002,EcoLife Kitchen Model-323,CAT-009,Home & Garden,Kitchen,Luxbrand,SKU-584415,351.42,161.19,21.84,True,2021-12-02,54.13
+PROD-3A0FEE1F,QuickFit Kids Model-894,CAT-007,Clothing,Kids,Natureco,SKU-815429,1925.79,1055.16,8.84,True,2024-05-09,45.21
+PROD-6A196176,NatureCo Fiction Model-747,CAT-013,Books,Fiction,Natureco,SKU-975602,623.66,398.0,21.68,True,2021-11-12,36.18
+PROD-6CA464CB,EcoLife Furniture Model-759,CAT-008,Home & Garden,Furniture,Trendset,SKU-432196,585.63,333.83,23.8,True,2021-09-12,43.0
+PROD-FE86532C,TechPro Laptops Model-868,CAT-002,Electronics,Laptops,Gadgethub,SKU-573438,1646.69,872.18,12.24,True,2021-06-15,47.03
+PROD-433AE6BC,SportZen Tablets Model-901,CAT-003,Electronics,Tablets,Ecolife,SKU-669711,659.9,423.57,5.82,False,2023-07-30,35.81
+PROD-E45BFEB5,HomePlus Kids Model-675,CAT-007,Clothing,Kids,Readmore,SKU-332254,1370.13,514.01,2.9,True,2020-04-26,62.48
+PROD-BF5CF42D,LuxBrand Furniture Model-119,CAT-008,Home & Garden,Furniture,Techpro,SKU-890209,245.85,156.24,21.63,False,2019-07-28,36.45
+PROD-5DCE2E3F,StyleCo Educational Model-765,CAT-017,Toys,Educational,Styleco,SKU-317775,1954.31,792.18,4.76,False,2019-10-15,59.46
+PROD-6E797DFD,LuxBrand Kitchen Model-786,CAT-009,Home & Garden,Kitchen,Ecolife,SKU-775545,283.04,193.26,6.75,True,2019-03-11,31.72
+PROD-C8AFAD52,AutoParts Smartphones Model-840,CAT-001,Electronics,Smartphones,Sportzen,SKU-104007,659.63,395.06,8.74,True,2021-07-01,40.11
+PROD-0FAC2855,HomePlus Furniture Model-542,CAT-008,Home & Garden,Furniture,Autoparts,SKU-939318,1441.43,923.73,10.78,False,2022-11-02,35.92
+PROD-09BA9728,ReadMore Action Figures Model-914,CAT-018,Toys,Action Figures,Quickfit,SKU-986287,1619.53,794.96,22.32,True,2020-12-13,50.91
+PROD-C3195557,EcoLife Action Figures Model-111,CAT-018,Toys,Action Figures,Styleco,SKU-621336,1935.53,911.28,13.36,True,2021-08-05,52.92
+PROD-B955A957,NatureCo Educational Model-671,CAT-017,Toys,Educational,Styleco,SKU-529308,1885.53,1302.03,16.18,True,2021-12-22,30.95
+PROD-40134830,KidsWorld Men's Wear Model-905,CAT-005,Clothing,Men's Wear,Gadgethub,SKU-905776,1735.18,725.53,24.07,True,2018-06-25,58.19
+PROD-29D7E411,GadgetHub Smartphones Model-523,CAT-001,Electronics,Smartphones,Gadgethub,SKU-720551,1960.7,919.44,16.6,True,2023-10-15,53.11
+PROD-B158D452,StyleCo Laptops Model-665,CAT-002,Electronics,Laptops,Autoparts,SKU-943759,1780.44,1084.03,22.67,True,2019-09-29,39.11
+PROD-EA0551D9,KidsWorld Outdoor Model-103,CAT-011,Sports,Outdoor,Autoparts,SKU-949103,1246.29,706.35,12.41,True,2024-05-22,43.32
+PROD-E595B250,ValuePick Smartphones Model-468,CAT-001,Electronics,Smartphones,Ecolife,SKU-128513,457.28,268.06,6.65,True,2021-03-18,41.38
+PROD-62494C76,HomePlus Skincare Model-434,CAT-015,Beauty,Skincare,Luxbrand,SKU-558944,286.42,159.02,10.47,True,2020-02-17,44.48
+PROD-43561247,ReadMore Non-Fiction Model-373,CAT-014,Books,Non-Fiction,Sportzen,SKU-594328,1301.27,696.39,2.88,True,2019-12-19,46.48
+PROD-92DE086C,KidsWorld Tablets Model-326,CAT-003,Electronics,Tablets,Styleco,SKU-453158,1573.11,726.9,12.65,True,2020-08-08,53.79
+PROD-3E378383,EcoLife Fitness Model-489,CAT-012,Sports,Fitness,Trendset,SKU-352965,168.79,68.55,11.99,True,2019-04-22,59.39
+PROD-091CE283,ReadMore Non-Fiction Model-380,CAT-014,Books,Non-Fiction,Valuepick,SKU-547900,996.72,567.22,13.36,True,2020-04-12,43.09
+PROD-07490DA5,GlowUp Smartphones Model-329,CAT-001,Electronics,Smartphones,Readmore,SKU-903647,167.5,106.85,11.78,True,2023-11-17,36.21
+PROD-D9033170,QuickFit Makeup Model-330,CAT-016,Beauty,Makeup,Homeplus,SKU-395996,774.58,359.7,11.58,False,2023-11-21,53.56
+PROD-E4C3CC81,ReadMore Accessories Model-678,CAT-004,Electronics,Accessories,Ecolife,SKU-557434,1587.51,910.83,23.29,True,2020-09-04,42.63
+PROD-A0487D5A,QuickFit Smartphones Model-873,CAT-001,Electronics,Smartphones,Trendset,SKU-936248,295.43,191.51,12.93,False,2021-09-01,35.18
+PROD-0FF7EB11,AutoParts Parts Model-804,CAT-020,Automotive,Parts,Homeplus,SKU-914700,833.55,421.16,19.74,True,2020-09-07,49.47
+PROD-6C137568,KidsWorld Accessories Model-783,CAT-004,Electronics,Accessories,Luxbrand,SKU-846117,1503.14,978.05,8.07,True,2021-05-29,34.93
+PROD-8EB5B176,ReadMore Makeup Model-869,CAT-016,Beauty,Makeup,Glowup,SKU-959412,1392.23,589.21,13.98,True,2021-12-23,57.68
+PROD-ED65B026,LuxBrand Tablets Model-475,CAT-003,Electronics,Tablets,Valuepick,SKU-995466,1202.37,836.79,17.84,False,2022-04-23,30.4
+PROD-D975CBF7,AutoParts Smartphones Model-841,CAT-001,Electronics,Smartphones,Kidsworld,SKU-224732,722.9,270.37,22.86,False,2023-09-17,62.6
+PROD-BBEC037D,AutoParts Educational Model-318,CAT-017,Toys,Educational,Kidsworld,SKU-130184,686.26,257.61,9.28,False,2018-07-31,62.46
+PROD-5FB34979,GlowUp Furniture Model-182,CAT-008,Home & Garden,Furniture,Homeplus,SKU-411933,1707.16,767.0,10.13,True,2024-05-09,55.07
+PROD-69E3831B,TrendSet Outdoor Model-993,CAT-011,Sports,Outdoor,Readmore,SKU-946377,696.5,320.93,4.45,True,2021-04-04,53.92
+PROD-87E31FAA,KidsWorld Laptops Model-122,CAT-002,Electronics,Laptops,Gadgethub,SKU-552448,387.33,148.73,1.8,True,2023-06-22,61.6
+PROD-8430FB2D,EcoLife Smartphones Model-938,CAT-001,Electronics,Smartphones,Trendset,SKU-734042,554.42,264.12,2.75,True,2024-03-29,52.36
+PROD-44412F54,GadgetHub Organic Model-322,CAT-019,Food,Organic,Gadgethub,SKU-144326,837.1,411.06,24.12,True,2020-07-24,50.89
+PROD-1549CBB7,GadgetHub Tablets Model-322,CAT-003,Electronics,Tablets,Quickfit,SKU-555227,898.13,471.37,23.08,True,2024-02-21,47.52
+PROD-7ED9AAC4,EcoLife Tablets Model-779,CAT-003,Electronics,Tablets,Natureco,SKU-506963,922.49,346.1,1.88,True,2021-10-22,62.48
+PROD-BCDF9463,ReadMore Women's Wear Model-488,CAT-006,Clothing,Women's Wear,Styleco,SKU-983812,537.8,272.94,15.65,True,2020-02-17,49.25
+PROD-228A548F,NatureCo Laptops Model-571,CAT-002,Electronics,Laptops,Homeplus,SKU-524841,1910.0,729.57,11.97,True,2018-08-08,61.8
+PROD-07175FEC,HomePlus Men's Wear Model-855,CAT-005,Clothing,Men's Wear,Kidsworld,SKU-933906,1752.08,739.86,11.86,True,2020-08-22,57.77
+PROD-D63EAE68,QuickFit Laptops Model-561,CAT-002,Electronics,Laptops,Styleco,SKU-989101,805.03,288.65,19.68,True,2023-02-07,64.14
+PROD-A0CFD68A,TechPro Non-Fiction Model-167,CAT-014,Books,Non-Fiction,Natureco,SKU-354343,827.37,551.44,5.12,True,2020-06-20,33.35
+PROD-51BA1C3E,GadgetHub Parts Model-152,CAT-020,Automotive,Parts,Styleco,SKU-802919,33.22,15.78,8.7,True,2020-09-11,52.5
+PROD-5595989F,GadgetHub Fiction Model-560,CAT-013,Books,Fiction,Kidsworld,SKU-729755,343.61,188.15,16.05,True,2022-11-30,45.24
+PROD-F15937B0,HomePlus Kitchen Model-778,CAT-009,Home & Garden,Kitchen,Homeplus,SKU-380154,189.76,100.9,13.72,True,2020-01-11,46.83
+PROD-9AECB7E6,StyleCo Organic Model-814,CAT-019,Food,Organic,Styleco,SKU-874962,1757.68,1037.91,7.58,True,2018-05-11,40.95
+PROD-B10A2766,SportZen Smartphones Model-688,CAT-001,Electronics,Smartphones,Gadgethub,SKU-930532,1470.37,852.22,2.98,True,2018-03-30,42.04
+PROD-D06264A2,StyleCo Decor Model-590,CAT-010,Home & Garden,Decor,Trendset,SKU-882478,1358.93,595.9,17.84,True,2024-05-02,56.15
+PROD-A84415F4,KidsWorld Accessories Model-402,CAT-004,Electronics,Accessories,Quickfit,SKU-307825,533.53,323.28,15.45,False,2023-03-19,39.41
+PROD-5A63DBC7,StyleCo Kitchen Model-861,CAT-009,Home & Garden,Kitchen,Luxbrand,SKU-445766,1862.02,1042.36,8.41,True,2020-04-01,44.02
+PROD-B1BA3ECD,QuickFit Fiction Model-709,CAT-013,Books,Fiction,Natureco,SKU-301000,363.8,246.01,3.79,False,2021-05-18,32.38
+PROD-650F4B0B,TrendSet Non-Fiction Model-294,CAT-014,Books,Non-Fiction,Kidsworld,SKU-543483,742.5,294.49,16.67,True,2024-03-20,60.34
+PROD-A6FBA097,TrendSet Non-Fiction Model-618,CAT-014,Books,Non-Fiction,Luxbrand,SKU-338197,1141.45,464.19,6.32,True,2021-09-26,59.33
+PROD-E480A9A6,StyleCo Men's Wear Model-411,CAT-005,Clothing,Men's Wear,Homeplus,SKU-695527,485.25,226.31,1.67,True,2018-08-21,53.36
+PROD-ED23085A,ValuePick Fiction Model-292,CAT-013,Books,Fiction,Homeplus,SKU-381216,1026.2,414.8,23.05,True,2023-10-31,59.58
+PROD-D42E8472,LuxBrand Accessories Model-624,CAT-004,Electronics,Accessories,Natureco,SKU-563900,1221.07,564.62,4.3,False,2018-02-21,53.76
+PROD-BCCD285B,SportZen Makeup Model-231,CAT-016,Beauty,Makeup,Luxbrand,SKU-118329,220.88,115.39,14.12,False,2018-12-19,47.76
+PROD-84FE3CC3,GadgetHub Furniture Model-672,CAT-008,Home & Garden,Furniture,Readmore,SKU-735133,885.4,507.99,12.38,True,2024-03-31,42.63
+PROD-4D9D3666,GlowUp Makeup Model-518,CAT-016,Beauty,Makeup,Ecolife,SKU-602359,934.27,356.86,18.85,True,2021-05-21,61.8
+PROD-D86B458C,LuxBrand Action Figures Model-136,CAT-018,Toys,Action Figures,Luxbrand,SKU-784988,752.02,365.62,20.0,False,2018-06-01,51.38
+PROD-323C941A,TrendSet Decor Model-445,CAT-010,Home & Garden,Decor,Gadgethub,SKU-350920,1277.37,802.51,15.94,True,2023-08-21,37.17
+PROD-866BF79A,TechPro Laptops Model-938,CAT-002,Electronics,Laptops,Autoparts,SKU-845888,223.74,123.33,4.87,True,2023-11-28,44.88
+PROD-385E0298,QuickFit Skincare Model-715,CAT-015,Beauty,Skincare,Kidsworld,SKU-443977,1501.16,668.17,22.42,True,2020-06-08,55.49
+PROD-D81C3728,AutoParts Women's Wear Model-991,CAT-006,Clothing,Women's Wear,Luxbrand,SKU-209920,1445.31,850.97,16.23,True,2021-06-25,41.12
+PROD-6AE8B11E,GadgetHub Tablets Model-712,CAT-003,Electronics,Tablets,Luxbrand,SKU-455960,867.92,417.6,13.04,True,2020-05-10,51.88
+PROD-CCBDB80C,AutoParts Men's Wear Model-953,CAT-005,Clothing,Men's Wear,Glowup,SKU-352808,1395.2,703.51,23.77,False,2018-09-30,49.58
+PROD-9032E43D,HomePlus Decor Model-934,CAT-010,Home & Garden,Decor,Autoparts,SKU-670100,338.58,174.45,19.83,True,2021-01-14,48.48
+PROD-26C77702,GadgetHub Makeup Model-538,CAT-016,Beauty,Makeup,Techpro,SKU-351735,514.2,316.8,2.66,True,2018-04-26,38.39
+PROD-5139BAC5,QuickFit Educational Model-173,CAT-017,Toys,Educational,Valuepick,SKU-608598,1548.57,1016.48,23.76,False,2018-09-24,34.36
+PROD-794B3EF1,TechPro Educational Model-767,CAT-017,Toys,Educational,Gadgethub,SKU-814643,1104.37,739.05,12.16,True,2018-10-29,33.08
+PROD-9E7CFB36,NatureCo Parts Model-591,CAT-020,Automotive,Parts,Techpro,SKU-380669,204.39,120.82,24.1,False,2023-01-07,40.89
+PROD-34E64CDD,HomePlus Action Figures Model-313,CAT-018,Toys,Action Figures,Gadgethub,SKU-156208,1940.85,1271.55,4.89,True,2023-03-16,34.48
+PROD-75660C37,ValuePick Furniture Model-279,CAT-008,Home & Garden,Furniture,Natureco,SKU-355341,1099.85,746.3,6.18,True,2019-05-22,32.15
+PROD-E08F7B34,EcoLife Skincare Model-747,CAT-015,Beauty,Skincare,Gadgethub,SKU-141374,1764.68,652.99,22.32,False,2022-01-11,63.0
+PROD-34353985,KidsWorld Kids Model-781,CAT-007,Clothing,Kids,Ecolife,SKU-811557,1521.91,1035.74,4.9,True,2020-12-17,31.94
+PROD-C6C6600F,GadgetHub Laptops Model-680,CAT-002,Electronics,Laptops,Sportzen,SKU-129176,642.33,422.74,6.22,True,2024-05-26,34.19
+PROD-BEA329E8,ReadMore Laptops Model-156,CAT-002,Electronics,Laptops,Sportzen,SKU-204749,1474.55,531.32,5.81,True,2022-06-07,63.97
+PROD-72F4CD1A,GadgetHub Kids Model-471,CAT-007,Clothing,Kids,Kidsworld,SKU-444594,950.0,599.63,10.02,True,2022-07-29,36.88
+PROD-B86EDD66,TrendSet Educational Model-161,CAT-017,Toys,Educational,Glowup,SKU-272203,1401.91,691.89,6.48,False,2023-03-06,50.65
+PROD-A92A6652,HomePlus Outdoor Model-748,CAT-011,Sports,Outdoor,Valuepick,SKU-523678,186.21,68.14,10.97,True,2021-08-15,63.41
+PROD-E61FEBF6,SportZen Outdoor Model-421,CAT-011,Sports,Outdoor,Techpro,SKU-434947,145.59,80.53,19.69,False,2018-01-08,44.69
+PROD-B7A6A483,HomePlus Outdoor Model-312,CAT-011,Sports,Outdoor,Trendset,SKU-875772,1158.35,447.88,17.02,True,2021-01-13,61.33
+PROD-319DADDF,KidsWorld Non-Fiction Model-102,CAT-014,Books,Non-Fiction,Readmore,SKU-470279,327.94,199.71,7.54,True,2023-02-20,39.1
+PROD-23B0C382,GlowUp Non-Fiction Model-850,CAT-014,Books,Non-Fiction,Glowup,SKU-188559,1557.21,1005.55,3.49,False,2022-09-16,35.43
+PROD-1951C690,TechPro Kids Model-300,CAT-007,Clothing,Kids,Glowup,SKU-967033,1741.49,919.42,23.47,True,2024-03-18,47.2
+PROD-06072383,LuxBrand Women's Wear Model-824,CAT-006,Clothing,Women's Wear,Autoparts,SKU-780026,1253.99,637.9,10.51,True,2018-12-10,49.13
+PROD-36B94C27,SportZen Furniture Model-671,CAT-008,Home & Garden,Furniture,Styleco,SKU-542057,192.24,119.03,21.57,True,2021-01-10,38.08
+PROD-48B1342E,AutoParts Furniture Model-181,CAT-008,Home & Garden,Furniture,Styleco,SKU-532478,941.85,473.08,21.96,True,2020-08-06,49.77
+PROD-405958F4,TechPro Men's Wear Model-519,CAT-005,Clothing,Men's Wear,Kidsworld,SKU-563634,343.95,174.31,23.05,True,2020-04-13,49.32
+PROD-8540C9A6,TechPro Parts Model-931,CAT-020,Automotive,Parts,Luxbrand,SKU-612513,545.14,235.51,12.66,True,2022-06-19,56.8
+PROD-4ACF1AA2,GadgetHub Organic Model-834,CAT-019,Food,Organic,Sportzen,SKU-672055,394.69,163.68,20.53,True,2022-04-23,58.53
+PROD-BD3F5057,SportZen Educational Model-349,CAT-017,Toys,Educational,Gadgethub,SKU-706279,909.42,473.68,17.52,True,2023-07-12,47.91
+PROD-DF3FE718,EcoLife Kids Model-636,CAT-007,Clothing,Kids,Gadgethub,SKU-515734,1747.88,881.76,10.17,True,2024-02-21,49.55
+PROD-63AA3D47,NatureCo Educational Model-142,CAT-017,Toys,Educational,Homeplus,SKU-940192,412.33,212.91,21.56,False,2021-03-20,48.36
+PROD-0833D3B6,GadgetHub Action Figures Model-131,CAT-018,Toys,Action Figures,Natureco,SKU-359657,24.28,12.03,7.99,True,2021-03-20,50.45
+PROD-E0092F88,SportZen Kitchen Model-777,CAT-009,Home & Garden,Kitchen,Homeplus,SKU-557482,1439.66,698.42,5.52,True,2018-09-20,51.49
+PROD-0A2ABA22,StyleCo Furniture Model-684,CAT-008,Home & Garden,Furniture,Styleco,SKU-770093,1974.04,1042.69,4.19,False,2021-07-29,47.18
+PROD-E3AB59B9,AutoParts Skincare Model-788,CAT-015,Beauty,Skincare,Quickfit,SKU-857378,709.94,333.96,6.0,False,2022-07-16,52.96
+PROD-E98DE2FC,ReadMore Parts Model-993,CAT-020,Automotive,Parts,Autoparts,SKU-693563,1756.22,1096.0,19.68,True,2022-08-27,37.59
+PROD-D03F8B4B,EcoLife Non-Fiction Model-688,CAT-014,Books,Non-Fiction,Quickfit,SKU-492623,1179.24,641.54,15.41,True,2019-03-06,45.6
+PROD-5F517E0F,GadgetHub Accessories Model-972,CAT-004,Electronics,Accessories,Natureco,SKU-685913,252.83,112.42,18.65,True,2019-04-29,55.54
+PROD-E8DF0AF9,EcoLife Organic Model-646,CAT-019,Food,Organic,Gadgethub,SKU-314999,82.99,44.32,1.75,True,2018-01-14,46.6
+PROD-0C5EC37D,LuxBrand Laptops Model-875,CAT-002,Electronics,Laptops,Valuepick,SKU-626838,1771.63,923.24,20.71,True,2020-05-19,47.89
+PROD-94CC2D3E,ReadMore Laptops Model-389,CAT-002,Electronics,Laptops,Techpro,SKU-668948,1188.33,580.04,20.48,True,2022-03-12,51.19
+PROD-63DA1C3C,GlowUp Women's Wear Model-206,CAT-006,Clothing,Women's Wear,Natureco,SKU-824604,1420.39,848.91,18.46,True,2021-09-07,40.23
+PROD-38FBB31B,AutoParts Makeup Model-498,CAT-016,Beauty,Makeup,Styleco,SKU-273391,1199.64,453.85,7.82,False,2023-10-26,62.17
+PROD-89A4D7DE,AutoParts Men's Wear Model-700,CAT-005,Clothing,Men's Wear,Sportzen,SKU-278683,1199.29,505.18,22.08,True,2022-04-19,57.88
+PROD-889E98A7,SportZen Men's Wear Model-919,CAT-005,Clothing,Men's Wear,Kidsworld,SKU-785800,1088.37,496.96,12.98,True,2023-06-05,54.34
+PROD-8B7AE5AC,GlowUp Kids Model-523,CAT-007,Clothing,Kids,Homeplus,SKU-622398,827.35,322.52,23.03,True,2018-08-08,61.02
+PROD-9D96D695,TechPro Men's Wear Model-351,CAT-005,Clothing,Men's Wear,Techpro,SKU-167702,457.7,204.35,19.92,True,2018-02-26,55.35
+PROD-9597A4AF,ValuePick Skincare Model-809,CAT-015,Beauty,Skincare,Kidsworld,SKU-691882,1276.41,530.95,18.57,False,2018-07-28,58.4
+PROD-2464671E,LuxBrand Outdoor Model-597,CAT-011,Sports,Outdoor,Gadgethub,SKU-419159,1218.95,463.15,10.51,False,2023-03-23,62.0
+PROD-64057272,ReadMore Organic Model-668,CAT-019,Food,Organic,Valuepick,SKU-535688,1572.76,717.75,5.08,True,2020-01-12,54.36
+PROD-83010660,ReadMore Kitchen Model-976,CAT-009,Home & Garden,Kitchen,Natureco,SKU-890395,408.02,262.57,18.32,True,2021-06-18,35.65
+PROD-C72A2A20,HomePlus Action Figures Model-872,CAT-018,Toys,Action Figures,Kidsworld,SKU-906526,599.2,362.73,20.19,True,2019-04-14,39.46
+PROD-0AD471E3,ReadMore Makeup Model-345,CAT-016,Beauty,Makeup,Natureco,SKU-363484,376.99,140.34,10.99,True,2024-02-01,62.77
+PROD-18E7ED70,AutoParts Educational Model-502,CAT-017,Toys,Educational,Sportzen,SKU-295409,35.82,24.06,15.34,True,2019-10-11,32.83
+PROD-31423B5C,ReadMore Skincare Model-401,CAT-015,Beauty,Skincare,Trendset,SKU-356106,387.57,244.07,4.67,True,2022-06-09,37.03
+PROD-182A8FB2,NatureCo Fiction Model-102,CAT-013,Books,Fiction,Natureco,SKU-638291,491.16,260.66,10.28,True,2018-05-10,46.93
+PROD-68F0ED1B,ReadMore Women's Wear Model-751,CAT-006,Clothing,Women's Wear,Valuepick,SKU-243431,139.7,84.21,20.07,True,2020-06-04,39.72
+PROD-81B88A8B,HomePlus Educational Model-526,CAT-017,Toys,Educational,Homeplus,SKU-870333,1732.77,966.52,9.38,True,2020-06-27,44.22
+PROD-CD6710E8,EcoLife Tablets Model-341,CAT-003,Electronics,Tablets,Readmore,SKU-549355,253.51,174.81,14.27,True,2021-03-15,31.04
+PROD-F6CD5521,LuxBrand Parts Model-661,CAT-020,Automotive,Parts,Trendset,SKU-295513,693.45,303.63,9.59,True,2023-11-16,56.21
+PROD-E2060AE2,GlowUp Laptops Model-227,CAT-002,Electronics,Laptops,Gadgethub,SKU-880760,1867.84,1073.64,22.65,True,2020-09-12,42.52
+PROD-2C29F0B7,NatureCo Kids Model-509,CAT-007,Clothing,Kids,Luxbrand,SKU-785796,960.87,559.54,6.45,True,2023-02-14,41.77
+PROD-8CDC0B0A,HomePlus Women's Wear Model-320,CAT-006,Clothing,Women's Wear,Quickfit,SKU-330393,1787.83,940.86,9.61,True,2020-03-02,47.37
+PROD-F525D196,GlowUp Outdoor Model-601,CAT-011,Sports,Outdoor,Autoparts,SKU-550361,544.8,269.38,2.13,True,2024-02-27,50.55
+PROD-CA10A062,TrendSet Educational Model-661,CAT-017,Toys,Educational,Homeplus,SKU-320755,123.48,55.1,19.4,False,2019-09-26,55.38
+PROD-79148E04,NatureCo Fiction Model-447,CAT-013,Books,Fiction,Homeplus,SKU-530818,481.8,326.35,9.53,False,2020-05-09,32.26
+PROD-DFECEA9E,GadgetHub Fitness Model-621,CAT-012,Sports,Fitness,Valuepick,SKU-111132,937.35,545.07,6.51,True,2020-03-28,41.85
+PROD-45BBEB5E,ValuePick Accessories Model-642,CAT-004,Electronics,Accessories,Readmore,SKU-986847,308.33,131.91,11.98,False,2019-06-20,57.22
+PROD-8E9A73D9,QuickFit Kids Model-491,CAT-007,Clothing,Kids,Kidsworld,SKU-729709,786.2,317.37,24.23,True,2020-02-04,59.63
+PROD-EBAC9754,ReadMore Outdoor Model-726,CAT-011,Sports,Outdoor,Kidsworld,SKU-573113,787.87,491.2,11.55,False,2023-06-20,37.65
+PROD-2B3FA0E2,QuickFit Furniture Model-589,CAT-008,Home & Garden,Furniture,Autoparts,SKU-249448,915.73,533.84,24.13,False,2018-09-30,41.7
+PROD-6CD7B276,TechPro Tablets Model-581,CAT-003,Electronics,Tablets,Trendset,SKU-317932,1263.04,585.94,22.05,True,2023-10-05,53.61
+PROD-9C06322E,ValuePick Kitchen Model-210,CAT-009,Home & Garden,Kitchen,Trendset,SKU-275813,1763.67,910.84,5.6,True,2022-07-02,48.36
+PROD-880C5A3B,GlowUp Non-Fiction Model-305,CAT-014,Books,Non-Fiction,Gadgethub,SKU-499829,225.79,80.34,13.25,True,2023-12-24,64.42
+PROD-A1B65234,TechPro Kids Model-302,CAT-007,Clothing,Kids,Techpro,SKU-859731,89.07,61.55,24.24,False,2020-09-25,30.9
+PROD-91F97F5A,TrendSet Laptops Model-783,CAT-002,Electronics,Laptops,Natureco,SKU-754629,1240.1,833.87,20.46,True,2020-06-28,32.76
+PROD-305625F6,GlowUp Makeup Model-708,CAT-016,Beauty,Makeup,Techpro,SKU-391389,770.51,440.93,5.1,True,2019-02-16,42.77
+PROD-E633DA15,AutoParts Smartphones Model-603,CAT-001,Electronics,Smartphones,Sportzen,SKU-196461,931.12,471.0,19.89,True,2019-03-23,49.42
+PROD-36F2E05B,ReadMore Men's Wear Model-780,CAT-005,Clothing,Men's Wear,Sportzen,SKU-642100,536.19,288.6,1.86,True,2023-12-03,46.18
+PROD-D00D12ED,SportZen Action Figures Model-441,CAT-018,Toys,Action Figures,Gadgethub,SKU-423289,374.56,166.43,4.61,True,2023-10-29,55.57
+PROD-0F3643CF,ReadMore Parts Model-592,CAT-020,Automotive,Parts,Techpro,SKU-755190,630.55,434.02,22.35,True,2022-07-02,31.17
+PROD-E1B85E7E,QuickFit Non-Fiction Model-716,CAT-014,Books,Non-Fiction,Natureco,SKU-308679,1261.46,600.22,9.62,True,2020-12-07,52.42
+PROD-A1B3174A,GadgetHub Decor Model-601,CAT-010,Home & Garden,Decor,Techpro,SKU-398175,1010.23,588.42,2.43,False,2024-03-28,41.75
+PROD-30886F93,ValuePick Skincare Model-642,CAT-015,Beauty,Skincare,Natureco,SKU-195452,1092.82,528.29,7.6,True,2020-09-11,51.66
+PROD-B5B1FC45,AutoParts Parts Model-556,CAT-020,Automotive,Parts,Luxbrand,SKU-276910,904.54,628.03,16.01,True,2019-11-03,30.57
+PROD-FD2F6F8B,ValuePick Smartphones Model-765,CAT-001,Electronics,Smartphones,Sportzen,SKU-789642,1825.34,1164.49,22.73,True,2020-04-13,36.2
+PROD-38C59803,SportZen Decor Model-583,CAT-010,Home & Garden,Decor,Trendset,SKU-935535,1941.33,1201.47,19.1,True,2023-07-07,38.11
+PROD-2B59CA40,QuickFit Accessories Model-468,CAT-004,Electronics,Accessories,Kidsworld,SKU-986333,1931.63,1225.65,2.92,True,2018-10-03,36.55
+PROD-F69514E4,ValuePick Laptops Model-603,CAT-002,Electronics,Laptops,Homeplus,SKU-628382,1612.23,1036.9,14.84,True,2018-01-04,35.69
+PROD-A97FA7F2,ValuePick Action Figures Model-489,CAT-018,Toys,Action Figures,Sportzen,SKU-603673,253.38,154.84,22.4,False,2019-07-26,38.89
+PROD-105A0516,AutoParts Makeup Model-448,CAT-016,Beauty,Makeup,Trendset,SKU-183307,407.12,258.22,16.45,False,2018-08-30,36.57
+PROD-A7EDC3A6,LuxBrand Smartphones Model-305,CAT-001,Electronics,Smartphones,Valuepick,SKU-937586,1884.98,743.89,12.9,True,2022-02-01,60.54
+PROD-376BDBCA,LuxBrand Action Figures Model-470,CAT-018,Toys,Action Figures,Luxbrand,SKU-615201,1463.78,911.33,0.51,True,2019-05-09,37.74
+PROD-183C791B,QuickFit Accessories Model-122,CAT-004,Electronics,Accessories,Sportzen,SKU-754196,544.62,295.45,21.65,True,2024-04-11,45.75
+PROD-AE530D2E,QuickFit Women's Wear Model-941,CAT-006,Clothing,Women's Wear,Luxbrand,SKU-247286,496.54,203.85,5.32,True,2023-12-03,58.95
+PROD-165B9260,HomePlus Skincare Model-211,CAT-015,Beauty,Skincare,Autoparts,SKU-260149,1547.98,826.88,9.1,True,2024-04-07,46.58
+PROD-D6F7EBC0,SportZen Laptops Model-522,CAT-002,Electronics,Laptops,Homeplus,SKU-551765,193.53,135.02,1.86,False,2018-09-13,30.23
+PROD-8906A99A,KidsWorld Furniture Model-712,CAT-008,Home & Garden,Furniture,Kidsworld,SKU-258348,1881.75,794.27,14.24,True,2018-01-25,57.79
+PROD-E7EED61A,AutoParts Outdoor Model-856,CAT-011,Sports,Outdoor,Natureco,SKU-371075,1119.62,740.82,1.36,False,2023-11-19,33.83
+PROD-C1559F59,QuickFit Kitchen Model-549,CAT-009,Home & Garden,Kitchen,Sportzen,SKU-519426,1225.44,721.49,21.5,True,2020-10-11,41.12
+PROD-1C2E5ADD,KidsWorld Smartphones Model-908,CAT-001,Electronics,Smartphones,Kidsworld,SKU-182581,1294.24,474.15,0.28,True,2024-03-27,63.36
+PROD-A99B0544,StyleCo Non-Fiction Model-636,CAT-014,Books,Non-Fiction,Glowup,SKU-222367,725.62,326.13,23.97,True,2020-02-14,55.05
+PROD-5E354642,AutoParts Fiction Model-478,CAT-013,Books,Fiction,Readmore,SKU-251491,1657.94,827.17,21.28,True,2019-05-31,50.11
+PROD-DB2D1A8F,TechPro Furniture Model-875,CAT-008,Home & Garden,Furniture,Quickfit,SKU-791979,598.47,354.83,18.01,True,2022-09-12,40.71
+PROD-38C0AEEE,NatureCo Outdoor Model-439,CAT-011,Sports,Outdoor,Styleco,SKU-109609,869.4,312.94,18.99,True,2018-12-30,64.01
+PROD-3C401A82,EcoLife Tablets Model-250,CAT-003,Electronics,Tablets,Glowup,SKU-628912,1143.94,726.08,9.03,False,2018-01-28,36.53
+PROD-FB1C50E2,QuickFit Women's Wear Model-469,CAT-006,Clothing,Women's Wear,Gadgethub,SKU-775581,1127.33,645.8,17.66,False,2019-04-03,42.71
+PROD-BFBE6188,TechPro Outdoor Model-731,CAT-011,Sports,Outdoor,Valuepick,SKU-921682,655.12,348.05,17.21,True,2020-05-04,46.87
+PROD-5512D156,SportZen Fitness Model-209,CAT-012,Sports,Fitness,Valuepick,SKU-390913,1713.87,1102.33,16.51,True,2020-04-13,35.68
+PROD-EE7E5661,HomePlus Outdoor Model-841,CAT-011,Sports,Outdoor,Homeplus,SKU-776791,1365.6,718.05,24.6,True,2021-11-19,47.42
+PROD-F67B58D1,EcoLife Accessories Model-953,CAT-004,Electronics,Accessories,Styleco,SKU-273892,13.43,8.47,4.89,True,2019-08-01,36.93
+PROD-1F869A7E,KidsWorld Kids Model-105,CAT-007,Clothing,Kids,Ecolife,SKU-862925,782.54,448.65,16.64,False,2023-02-11,42.67
+PROD-FB33BC6F,HomePlus Decor Model-187,CAT-010,Home & Garden,Decor,Sportzen,SKU-455742,1671.71,821.37,0.44,False,2020-03-29,50.87
+PROD-AF5701A2,TrendSet Makeup Model-192,CAT-016,Beauty,Makeup,Sportzen,SKU-821867,1897.49,1111.77,5.64,True,2021-12-22,41.41
+PROD-5953721D,EcoLife Tablets Model-543,CAT-003,Electronics,Tablets,Natureco,SKU-324465,1954.83,1236.64,14.44,False,2020-12-17,36.74
+PROD-3532734E,GlowUp Decor Model-296,CAT-010,Home & Garden,Decor,Sportzen,SKU-690829,871.27,351.57,20.02,True,2023-08-21,59.65
+PROD-660937F0,StyleCo Women's Wear Model-522,CAT-006,Clothing,Women's Wear,Sportzen,SKU-679136,844.8,475.06,13.64,True,2022-01-13,43.77
+PROD-0E0BDD2E,StyleCo Makeup Model-184,CAT-016,Beauty,Makeup,Styleco,SKU-105790,266.08,183.31,21.81,False,2020-06-28,31.11
+PROD-BCE6CEAF,ReadMore Makeup Model-601,CAT-016,Beauty,Makeup,Trendset,SKU-177003,311.12,197.89,6.24,True,2021-11-18,36.39
+PROD-0839ACAA,KidsWorld Men's Wear Model-867,CAT-005,Clothing,Men's Wear,Readmore,SKU-833243,1835.73,912.95,13.89,True,2019-08-02,50.27
+PROD-2587DAEA,NatureCo Kids Model-233,CAT-007,Clothing,Kids,Glowup,SKU-285546,67.67,35.72,12.27,False,2023-06-07,47.21
+PROD-061B4844,TrendSet Accessories Model-966,CAT-004,Electronics,Accessories,Ecolife,SKU-292111,283.74,138.09,5.74,True,2023-12-05,51.33
+PROD-FD337F75,ReadMore Action Figures Model-611,CAT-018,Toys,Action Figures,Readmore,SKU-588318,1565.25,638.2,7.01,False,2020-07-12,59.23
+PROD-5FAB22F8,SportZen Smartphones Model-441,CAT-001,Electronics,Smartphones,Natureco,SKU-769467,305.06,207.68,14.97,True,2021-05-08,31.92
+PROD-EF14366B,HomePlus Tablets Model-327,CAT-003,Electronics,Tablets,Glowup,SKU-808568,123.66,61.12,20.16,True,2018-03-30,50.57
+PROD-67CEC960,GadgetHub Smartphones Model-108,CAT-001,Electronics,Smartphones,Luxbrand,SKU-871469,1272.41,532.71,13.17,False,2023-10-19,58.13
+PROD-B1FF585E,QuickFit Organic Model-901,CAT-019,Food,Organic,Quickfit,SKU-617342,667.87,303.12,20.56,False,2020-12-25,54.61
+PROD-8FBFA17B,GlowUp Decor Model-517,CAT-010,Home & Garden,Decor,Kidsworld,SKU-302697,1821.37,812.95,14.75,False,2019-07-11,55.37
+PROD-AF006C8C,StyleCo Skincare Model-111,CAT-015,Beauty,Skincare,Homeplus,SKU-595026,1191.74,567.62,18.53,True,2023-03-19,52.37
+PROD-DA417490,QuickFit Kids Model-346,CAT-007,Clothing,Kids,Kidsworld,SKU-189198,1333.3,733.4,10.32,True,2021-12-01,44.99
+PROD-C00B12ED,EcoLife Outdoor Model-319,CAT-011,Sports,Outdoor,Valuepick,SKU-561151,1129.95,441.74,1.07,True,2024-03-09,60.91
+PROD-E8352A4B,LuxBrand Non-Fiction Model-755,CAT-014,Books,Non-Fiction,Glowup,SKU-155441,1905.51,688.3,1.52,True,2018-08-02,63.88
+PROD-8BC25123,HomePlus Furniture Model-594,CAT-008,Home & Garden,Furniture,Styleco,SKU-863484,1886.48,917.0,5.75,True,2023-02-05,51.39
+PROD-6BE263DE,KidsWorld Laptops Model-689,CAT-002,Electronics,Laptops,Gadgethub,SKU-597887,1528.81,700.74,2.61,False,2023-12-06,54.16
+PROD-78EE156B,TrendSet Tablets Model-562,CAT-003,Electronics,Tablets,Quickfit,SKU-444004,1933.09,764.4,0.98,False,2019-01-16,60.46
+PROD-A1D477AA,QuickFit Fitness Model-563,CAT-012,Sports,Fitness,Gadgethub,SKU-703330,1044.63,405.12,13.73,False,2021-12-14,61.22
+PROD-95938A6B,StyleCo Decor Model-978,CAT-010,Home & Garden,Decor,Styleco,SKU-601855,1773.47,1229.21,15.15,False,2019-08-29,30.69
+PROD-2EB8302A,EcoLife Organic Model-495,CAT-019,Food,Organic,Homeplus,SKU-528740,169.02,87.91,5.36,True,2022-05-23,47.99
+PROD-E1A8374F,ReadMore Fiction Model-416,CAT-013,Books,Fiction,Natureco,SKU-356494,1219.66,621.76,20.3,False,2020-07-18,49.02
+PROD-4673D7CE,ReadMore Educational Model-338,CAT-017,Toys,Educational,Ecolife,SKU-678364,9.5,5.0,11.27,True,2019-10-08,47.37
+PROD-4648C2D1,TrendSet Decor Model-935,CAT-010,Home & Garden,Decor,Valuepick,SKU-297304,1421.17,577.41,22.38,True,2018-01-06,59.37
+PROD-29F69509,SportZen Smartphones Model-545,CAT-001,Electronics,Smartphones,Valuepick,SKU-399564,1278.59,871.59,1.34,True,2019-05-11,31.83
+PROD-23FFF162,SportZen Skincare Model-689,CAT-015,Beauty,Skincare,Ecolife,SKU-346490,79.69,46.67,19.22,True,2023-11-21,41.44
+PROD-085F3D6D,EcoLife Women's Wear Model-690,CAT-006,Clothing,Women's Wear,Trendset,SKU-635641,592.63,224.59,2.4,True,2018-05-13,62.1
+PROD-D197591C,TechPro Laptops Model-292,CAT-002,Electronics,Laptops,Styleco,SKU-715768,68.57,47.1,12.39,True,2018-09-12,31.31
+PROD-8782D85D,AutoParts Accessories Model-521,CAT-004,Electronics,Accessories,Valuepick,SKU-630607,1489.13,862.66,6.59,False,2022-02-03,42.07
+PROD-A6340442,ReadMore Outdoor Model-153,CAT-011,Sports,Outdoor,Autoparts,SKU-525900,1732.68,626.38,10.6,True,2020-06-12,63.85
+PROD-908A4122,GadgetHub Accessories Model-828,CAT-004,Electronics,Accessories,Sportzen,SKU-868581,102.58,49.45,13.56,False,2021-11-03,51.79
+PROD-2B8DC231,EcoLife Kids Model-238,CAT-007,Clothing,Kids,Readmore,SKU-878360,1363.12,825.06,9.18,True,2024-04-24,39.47
+PROD-EFC3092E,AutoParts Decor Model-970,CAT-010,Home & Garden,Decor,Valuepick,SKU-328270,1474.64,898.65,2.73,False,2022-07-13,39.06
+PROD-EC419B43,AutoParts Fitness Model-259,CAT-012,Sports,Fitness,Ecolife,SKU-109133,60.88,25.33,24.12,False,2018-03-12,58.39
+PROD-5A1C771F,ReadMore Outdoor Model-665,CAT-011,Sports,Outdoor,Trendset,SKU-210606,1473.15,779.34,17.39,True,2023-02-16,47.1
+PROD-D10F64A1,GadgetHub Educational Model-703,CAT-017,Toys,Educational,Sportzen,SKU-653283,1668.61,923.16,8.28,True,2022-06-14,44.67
+PROD-9FA3B159,TrendSet Tablets Model-368,CAT-003,Electronics,Tablets,Natureco,SKU-340948,564.61,272.15,5.81,True,2019-10-08,51.8
+PROD-8FB5AECE,KidsWorld Kitchen Model-856,CAT-009,Home & Garden,Kitchen,Trendset,SKU-362538,146.47,90.79,0.78,True,2019-06-04,38.01
+PROD-0CF2B827,ValuePick Organic Model-330,CAT-019,Food,Organic,Valuepick,SKU-745507,528.0,277.53,23.11,True,2023-11-14,47.44
+PROD-F1AEA1BD,TrendSet Fitness Model-589,CAT-012,Sports,Fitness,Styleco,SKU-766265,1117.88,543.91,11.18,True,2022-10-19,51.34
+PROD-954FC23A,GlowUp Action Figures Model-227,CAT-018,Toys,Action Figures,Gadgethub,SKU-307171,1072.26,688.53,12.67,False,2018-12-31,35.79
+PROD-57AAFE6B,ValuePick Skincare Model-745,CAT-015,Beauty,Skincare,Valuepick,SKU-543411,641.79,295.83,23.12,True,2022-11-09,53.91
+PROD-8505C7BD,EcoLife Decor Model-451,CAT-010,Home & Garden,Decor,Readmore,SKU-967340,1619.09,691.29,18.67,True,2020-06-09,57.3
+PROD-40FCA50A,SportZen Kitchen Model-433,CAT-009,Home & Garden,Kitchen,Sportzen,SKU-443873,978.39,532.61,4.86,True,2020-08-17,45.56
+PROD-B57C76F1,EcoLife Kitchen Model-878,CAT-009,Home & Garden,Kitchen,Kidsworld,SKU-108155,1225.45,679.21,1.48,True,2019-03-05,44.57
+PROD-6DE6B716,QuickFit Women's Wear Model-517,CAT-006,Clothing,Women's Wear,Sportzen,SKU-101826,1721.14,702.91,6.15,True,2022-03-20,59.16
+PROD-24BC26A6,ValuePick Men's Wear Model-999,CAT-005,Clothing,Men's Wear,Autoparts,SKU-554536,235.26,90.63,1.1,True,2023-05-10,61.48
+PROD-CCE3AA6C,KidsWorld Decor Model-132,CAT-010,Home & Garden,Decor,Ecolife,SKU-744047,118.65,63.68,24.14,True,2022-09-03,46.33
+PROD-FDD3A85F,AutoParts Educational Model-744,CAT-017,Toys,Educational,Luxbrand,SKU-603537,1691.3,709.77,23.95,True,2019-01-04,58.03
+PROD-159921DB,NatureCo Skincare Model-615,CAT-015,Beauty,Skincare,Ecolife,SKU-616761,622.65,272.91,24.25,True,2020-02-26,56.17
+PROD-E04DD8B9,TechPro Kids Model-929,CAT-007,Clothing,Kids,Luxbrand,SKU-626062,287.51,187.18,22.02,False,2020-10-08,34.9
+PROD-34A584B7,NatureCo Non-Fiction Model-818,CAT-014,Books,Non-Fiction,Autoparts,SKU-443804,960.56,603.96,17.56,True,2021-10-19,37.12
+PROD-900DF25C,ReadMore Non-Fiction Model-260,CAT-014,Books,Non-Fiction,Kidsworld,SKU-782448,1196.94,761.19,24.75,True,2023-09-25,36.41
+PROD-46C40F88,StyleCo Outdoor Model-397,CAT-011,Sports,Outdoor,Sportzen,SKU-418448,1094.59,427.93,3.13,True,2020-05-27,60.9
+PROD-07724309,TrendSet Fitness Model-986,CAT-012,Sports,Fitness,Readmore,SKU-763528,379.61,206.31,4.04,True,2018-10-20,45.65
+PROD-E523707C,TechPro Smartphones Model-314,CAT-001,Electronics,Smartphones,Techpro,SKU-264968,1608.0,660.74,4.57,True,2021-12-06,58.91
+PROD-6BCE18F1,NatureCo Organic Model-381,CAT-019,Food,Organic,Autoparts,SKU-914266,1417.14,543.98,21.23,True,2024-04-03,61.61
+PROD-58B0BDF1,TrendSet Tablets Model-363,CAT-003,Electronics,Tablets,Quickfit,SKU-316524,1955.94,778.91,13.28,True,2018-09-05,60.18
+PROD-4289B123,AutoParts Skincare Model-272,CAT-015,Beauty,Skincare,Natureco,SKU-927345,796.83,336.21,14.6,True,2021-01-09,57.81
+PROD-BA6C92B4,NatureCo Parts Model-602,CAT-020,Automotive,Parts,Kidsworld,SKU-317264,462.24,217.79,5.92,True,2018-08-19,52.88
+PROD-E4BA9477,EcoLife Women's Wear Model-482,CAT-006,Clothing,Women's Wear,Autoparts,SKU-174980,1923.97,886.75,0.84,True,2021-11-02,53.91
+PROD-6517850C,StyleCo Kids Model-635,CAT-007,Clothing,Kids,Techpro,SKU-943542,1144.58,614.48,15.37,False,2018-05-31,46.31
+PROD-FAECF06B,AutoParts Tablets Model-274,CAT-003,Electronics,Tablets,Luxbrand,SKU-597016,441.45,166.82,7.58,True,2022-02-04,62.21
+PROD-3EF2B0F7,ValuePick Educational Model-157,CAT-017,Toys,Educational,Trendset,SKU-195627,307.74,127.73,17.73,False,2022-09-02,58.49
+PROD-4D7F3CB2,NatureCo Men's Wear Model-239,CAT-005,Clothing,Men's Wear,Sportzen,SKU-714723,1529.6,661.19,13.18,True,2022-02-10,56.77
+PROD-939AE273,ReadMore Laptops Model-846,CAT-002,Electronics,Laptops,Kidsworld,SKU-264963,40.89,20.4,16.51,True,2022-01-14,50.11
+PROD-758D74B5,ValuePick Outdoor Model-693,CAT-011,Sports,Outdoor,Sportzen,SKU-375077,1603.09,647.02,11.63,False,2018-06-15,59.64
+PROD-B44D694A,QuickFit Kids Model-499,CAT-007,Clothing,Kids,Trendset,SKU-601850,254.54,137.14,14.67,True,2022-08-19,46.12
+PROD-6BBE75C1,EcoLife Parts Model-653,CAT-020,Automotive,Parts,Homeplus,SKU-544669,1446.98,1004.96,10.7,True,2022-01-15,30.55
+PROD-6C304D52,NatureCo Laptops Model-721,CAT-002,Electronics,Laptops,Autoparts,SKU-642626,182.33,78.11,4.39,True,2021-12-04,57.16
+PROD-CF98F1CA,KidsWorld Outdoor Model-668,CAT-011,Sports,Outdoor,Quickfit,SKU-232663,465.74,299.83,1.68,True,2022-08-30,35.62
+PROD-3148435E,QuickFit Fitness Model-946,CAT-012,Sports,Fitness,Techpro,SKU-689583,195.16,94.37,24.45,False,2022-01-10,51.64
+PROD-37EE9ABD,ReadMore Outdoor Model-868,CAT-011,Sports,Outdoor,Quickfit,SKU-433859,1361.28,580.35,9.13,True,2018-03-24,57.37
+PROD-6A8DB644,TrendSet Organic Model-906,CAT-019,Food,Organic,Trendset,SKU-348923,742.7,424.01,13.44,True,2022-09-29,42.91
+PROD-755504D1,GlowUp Educational Model-660,CAT-017,Toys,Educational,Natureco,SKU-609748,279.48,153.48,16.18,True,2020-05-19,45.08
+PROD-06DFF244,TrendSet Educational Model-332,CAT-017,Toys,Educational,Luxbrand,SKU-234701,1611.27,1071.75,4.91,True,2018-01-23,33.48
+PROD-46E40FFE,ReadMore Outdoor Model-912,CAT-011,Sports,Outdoor,Techpro,SKU-749154,1764.15,988.56,6.52,True,2020-04-02,43.96
+PROD-D7C77286,ReadMore Makeup Model-431,CAT-016,Beauty,Makeup,Gadgethub,SKU-644247,1626.66,1084.38,4.94,True,2018-04-19,33.34
+PROD-177FC994,ValuePick Organic Model-703,CAT-019,Food,Organic,Trendset,SKU-683265,238.34,136.76,16.33,True,2020-09-23,42.62
+PROD-9756BEA9,NatureCo Kids Model-998,CAT-007,Clothing,Kids,Homeplus,SKU-843565,462.97,184.78,23.04,True,2021-02-18,60.09
+PROD-FBB48F63,StyleCo Kitchen Model-301,CAT-009,Home & Garden,Kitchen,Luxbrand,SKU-507783,1151.96,421.84,12.39,True,2020-01-25,63.38
+PROD-DA6770E4,HomePlus Kitchen Model-990,CAT-009,Home & Garden,Kitchen,Trendset,SKU-606149,1348.54,767.26,5.33,True,2023-05-19,43.1
+PROD-3B364654,GlowUp Parts Model-152,CAT-020,Automotive,Parts,Techpro,SKU-415817,1653.38,617.57,0.84,False,2021-11-05,62.65
+PROD-2039BFEC,GlowUp Non-Fiction Model-230,CAT-014,Books,Non-Fiction,Luxbrand,SKU-699860,1748.61,1109.37,4.09,True,2020-08-10,36.56
+PROD-0B674A0B,ValuePick Laptops Model-358,CAT-002,Electronics,Laptops,Kidsworld,SKU-478847,1115.94,488.4,22.03,False,2022-06-22,56.23
+PROD-B78E9D28,GadgetHub Skincare Model-545,CAT-015,Beauty,Skincare,Sportzen,SKU-295441,1563.95,899.46,11.51,True,2018-12-13,42.49
+PROD-9830B193,KidsWorld Women's Wear Model-866,CAT-006,Clothing,Women's Wear,Luxbrand,SKU-563360,1207.21,489.91,0.21,False,2019-12-22,59.42
+PROD-78919B32,NatureCo Women's Wear Model-997,CAT-006,Clothing,Women's Wear,Styleco,SKU-979706,1155.46,563.3,6.5,True,2023-05-10,51.25
+PROD-F34FDC28,GlowUp Makeup Model-313,CAT-016,Beauty,Makeup,Autoparts,SKU-757961,351.9,234.96,13.91,True,2022-07-01,33.23
+PROD-E634AAC1,ReadMore Accessories Model-825,CAT-004,Electronics,Accessories,Kidsworld,SKU-921694,1552.28,705.28,10.67,False,2018-11-12,54.56
+PROD-E2F64F92,LuxBrand Parts Model-952,CAT-020,Automotive,Parts,Quickfit,SKU-369198,502.99,327.24,5.74,True,2023-11-22,34.94
+PROD-1E3BB84E,StyleCo Skincare Model-968,CAT-015,Beauty,Skincare,Ecolife,SKU-164144,1525.26,1016.53,4.58,True,2021-02-17,33.35
+PROD-2A944186,LuxBrand Decor Model-159,CAT-010,Home & Garden,Decor,Glowup,SKU-523783,1537.38,718.6,20.25,True,2020-07-09,53.26
+PROD-25256072,EcoLife Smartphones Model-660,CAT-001,Electronics,Smartphones,Ecolife,SKU-342694,40.64,19.4,6.3,True,2022-06-24,52.26
+PROD-605675A7,GadgetHub Smartphones Model-914,CAT-001,Electronics,Smartphones,Kidsworld,SKU-791746,1148.01,690.36,20.16,True,2024-04-12,39.86
+PROD-33076F61,TechPro Makeup Model-439,CAT-016,Beauty,Makeup,Quickfit,SKU-104556,1029.64,700.04,10.47,True,2021-02-10,32.01
+PROD-6EE19BEA,GlowUp Educational Model-972,CAT-017,Toys,Educational,Sportzen,SKU-613035,1383.4,723.65,10.59,True,2023-11-21,47.69
+PROD-6EDDA20E,GlowUp Kitchen Model-559,CAT-009,Home & Garden,Kitchen,Luxbrand,SKU-729211,170.05,66.33,5.67,True,2023-11-27,60.99
+PROD-4E815795,TechPro Women's Wear Model-453,CAT-006,Clothing,Women's Wear,Kidsworld,SKU-902998,132.53,84.57,0.91,True,2021-12-21,36.19
+PROD-C8EAEFDC,StyleCo Skincare Model-284,CAT-015,Beauty,Skincare,Glowup,SKU-842028,1941.0,1333.05,5.96,True,2018-01-28,31.32
+PROD-4B7D7BE4,ReadMore Fiction Model-804,CAT-013,Books,Fiction,Homeplus,SKU-219144,1280.2,853.48,7.29,True,2019-05-01,33.33
+PROD-02F8BF6A,ValuePick Laptops Model-481,CAT-002,Electronics,Laptops,Glowup,SKU-563084,1190.54,443.37,20.72,False,2024-05-05,62.76
+PROD-7DEBE1AF,NatureCo Outdoor Model-431,CAT-011,Sports,Outdoor,Trendset,SKU-284093,523.59,365.94,2.52,True,2024-04-06,30.11
+PROD-B6DB3E64,TrendSet Accessories Model-864,CAT-004,Electronics,Accessories,Gadgethub,SKU-772930,1599.25,1067.76,22.3,True,2018-05-14,33.23
+PROD-5681B6B0,SportZen Kitchen Model-731,CAT-009,Home & Garden,Kitchen,Techpro,SKU-147538,398.41,194.48,15.6,True,2022-10-14,51.19
+PROD-3AAD656F,KidsWorld Kitchen Model-505,CAT-009,Home & Garden,Kitchen,Sportzen,SKU-307887,1859.08,1149.36,1.22,True,2019-05-25,38.18
+PROD-166851AC,ReadMore Outdoor Model-844,CAT-011,Sports,Outdoor,Kidsworld,SKU-375144,514.35,264.36,24.12,True,2023-12-11,48.6
+PROD-A14E2817,ReadMore Fiction Model-456,CAT-013,Books,Fiction,Readmore,SKU-553732,374.78,172.53,15.09,False,2019-07-08,53.96
+PROD-A7F02CD9,NatureCo Non-Fiction Model-680,CAT-014,Books,Non-Fiction,Glowup,SKU-756262,590.49,317.5,21.78,False,2019-05-17,46.23
+PROD-D3604621,LuxBrand Fiction Model-594,CAT-013,Books,Fiction,Kidsworld,SKU-464546,1145.7,639.54,18.22,False,2023-08-05,44.18
+PROD-D2EA1399,AutoParts Smartphones Model-277,CAT-001,Electronics,Smartphones,Natureco,SKU-619370,1411.51,549.9,24.86,True,2022-11-19,61.04
+PROD-F4EAD736,GlowUp Kitchen Model-522,CAT-009,Home & Garden,Kitchen,Styleco,SKU-952807,140.21,96.31,21.81,True,2021-08-31,31.31
+PROD-C065180B,StyleCo Men's Wear Model-365,CAT-005,Clothing,Men's Wear,Styleco,SKU-956539,1958.93,1056.35,5.97,False,2021-02-16,46.08
+PROD-A240092D,TechPro Organic Model-747,CAT-019,Food,Organic,Kidsworld,SKU-301191,298.78,117.42,24.01,True,2020-10-17,60.7
+PROD-96E07213,QuickFit Laptops Model-741,CAT-002,Electronics,Laptops,Quickfit,SKU-642724,824.29,536.24,11.59,True,2019-05-12,34.95
+PROD-7BB53BD8,AutoParts Skincare Model-197,CAT-015,Beauty,Skincare,Sportzen,SKU-423112,55.94,24.15,23.44,True,2023-11-11,56.83
+PROD-EAA34C52,GadgetHub Action Figures Model-480,CAT-018,Toys,Action Figures,Natureco,SKU-621837,1552.23,851.59,10.91,True,2018-01-17,45.14
+PROD-4122A71F,TrendSet Laptops Model-983,CAT-002,Electronics,Laptops,Techpro,SKU-458132,1711.86,877.55,11.61,True,2019-01-09,48.74
+PROD-215D0841,HomePlus Skincare Model-517,CAT-015,Beauty,Skincare,Styleco,SKU-736879,1241.49,524.86,15.27,True,2020-11-12,57.72
+PROD-EB481065,QuickFit Men's Wear Model-499,CAT-005,Clothing,Men's Wear,Homeplus,SKU-440344,1924.43,1059.94,20.98,True,2020-07-15,44.92
+PROD-BAD9617B,EcoLife Fiction Model-188,CAT-013,Books,Fiction,Sportzen,SKU-129642,698.57,374.05,18.66,True,2019-05-14,46.45
+PROD-E2BCEC6A,TechPro Tablets Model-453,CAT-003,Electronics,Tablets,Gadgethub,SKU-803392,357.14,188.22,12.79,True,2024-04-08,47.3
+PROD-DE102E93,KidsWorld Organic Model-614,CAT-019,Food,Organic,Gadgethub,SKU-389229,1259.69,726.28,0.25,False,2020-08-21,42.34
+PROD-B3E77C18,LuxBrand Accessories Model-656,CAT-004,Electronics,Accessories,Autoparts,SKU-663815,1236.48,753.17,20.92,True,2018-11-23,39.09
+PROD-8E582066,NatureCo Kids Model-980,CAT-007,Clothing,Kids,Homeplus,SKU-503254,374.51,188.57,3.77,True,2022-04-05,49.65
+PROD-F0DD6B49,GadgetHub Parts Model-758,CAT-020,Automotive,Parts,Ecolife,SKU-933829,1676.83,986.76,19.66,False,2019-03-12,41.15
+PROD-09500315,StyleCo Decor Model-337,CAT-010,Home & Garden,Decor,Luxbrand,SKU-946293,1180.22,753.31,5.1,True,2018-04-07,36.17
+PROD-05DECE71,ReadMore Kids Model-830,CAT-007,Clothing,Kids,Techpro,SKU-988326,920.9,481.66,6.91,True,2020-11-03,47.7
+PROD-AFE7EC30,KidsWorld Kids Model-474,CAT-007,Clothing,Kids,Glowup,SKU-540848,985.91,366.01,22.94,True,2018-10-15,62.88
+PROD-143EC8AB,GlowUp Men's Wear Model-572,CAT-005,Clothing,Men's Wear,Techpro,SKU-143067,764.02,317.74,20.2,True,2021-12-14,58.41
+PROD-BD7E178C,StyleCo Tablets Model-757,CAT-003,Electronics,Tablets,Trendset,SKU-925324,192.84,125.81,7.07,False,2024-03-21,34.76
+PROD-D6007751,ReadMore Kids Model-757,CAT-007,Clothing,Kids,Sportzen,SKU-111338,191.89,111.38,16.54,True,2021-12-30,41.96
+PROD-88E77228,AutoParts Tablets Model-907,CAT-003,Electronics,Tablets,Natureco,SKU-456677,222.0,108.18,12.59,True,2020-10-28,51.27
+PROD-249EB7BB,SportZen Accessories Model-387,CAT-004,Electronics,Accessories,Kidsworld,SKU-574595,1457.65,880.39,7.43,True,2022-04-24,39.6
+PROD-03CA6607,TrendSet Decor Model-117,CAT-010,Home & Garden,Decor,Quickfit,SKU-379622,1395.45,701.25,4.26,False,2021-10-11,49.75
+PROD-786318A1,QuickFit Accessories Model-319,CAT-004,Electronics,Accessories,Luxbrand,SKU-691297,1449.72,602.31,1.27,True,2023-11-01,58.45
+PROD-67071DCC,EcoLife Skincare Model-171,CAT-015,Beauty,Skincare,Sportzen,SKU-358139,1025.43,475.46,17.2,True,2018-12-21,53.63
+PROD-013F85A6,StyleCo Men's Wear Model-680,CAT-005,Clothing,Men's Wear,Natureco,SKU-949736,643.81,352.87,1.53,False,2021-11-22,45.19
+PROD-7DB4ED2D,TechPro Non-Fiction Model-809,CAT-014,Books,Non-Fiction,Luxbrand,SKU-354910,948.88,520.56,22.98,True,2018-04-29,45.14
+PROD-B3E75624,TechPro Parts Model-504,CAT-020,Automotive,Parts,Styleco,SKU-504377,217.16,84.76,16.55,True,2024-01-12,60.97
+PROD-D7EAC29E,GadgetHub Educational Model-360,CAT-017,Toys,Educational,Techpro,SKU-587136,1766.3,745.79,16.54,True,2022-11-17,57.78
+PROD-A61EEC82,NatureCo Organic Model-914,CAT-019,Food,Organic,Valuepick,SKU-990112,1470.4,800.44,24.34,True,2020-08-25,45.56
+PROD-A815F12D,KidsWorld Tablets Model-539,CAT-003,Electronics,Tablets,Trendset,SKU-570287,1464.41,514.65,1.95,True,2021-02-15,64.86
+PROD-FF755565,AutoParts Fitness Model-236,CAT-012,Sports,Fitness,Sportzen,SKU-495953,798.03,283.3,16.01,False,2020-08-07,64.5
+PROD-97614E63,StyleCo Action Figures Model-217,CAT-018,Toys,Action Figures,Valuepick,SKU-918595,488.39,275.7,17.7,True,2023-07-31,43.55
+PROD-8C89FAEE,AutoParts Women's Wear Model-214,CAT-006,Clothing,Women's Wear,Quickfit,SKU-179427,345.64,225.89,21.59,True,2020-12-15,34.65
+PROD-88351525,HomePlus Accessories Model-327,CAT-004,Electronics,Accessories,Glowup,SKU-183247,1445.14,725.35,16.67,True,2018-05-18,49.81
+PROD-B78E8145,ValuePick Furniture Model-613,CAT-008,Home & Garden,Furniture,Natureco,SKU-684579,1010.17,569.48,7.89,True,2022-07-02,43.63
+PROD-7A866F74,SportZen Fiction Model-677,CAT-013,Books,Fiction,Glowup,SKU-785274,1607.17,703.62,14.21,False,2020-05-04,56.22
+PROD-4D812C50,SportZen Men's Wear Model-851,CAT-005,Clothing,Men's Wear,Luxbrand,SKU-847951,285.81,107.46,12.31,False,2022-04-08,62.4
+PROD-2AD96D15,QuickFit Accessories Model-616,CAT-004,Electronics,Accessories,Readmore,SKU-832446,1222.07,808.91,0.98,True,2024-03-26,33.81
+PROD-06B360E0,GadgetHub Fiction Model-585,CAT-013,Books,Fiction,Glowup,SKU-730622,1895.11,751.91,23.38,True,2020-04-02,60.32
+PROD-AD7D05F0,GadgetHub Men's Wear Model-935,CAT-005,Clothing,Men's Wear,Valuepick,SKU-674496,705.4,427.39,16.47,True,2021-09-14,39.41
+PROD-A73745A8,TechPro Parts Model-804,CAT-020,Automotive,Parts,Glowup,SKU-201569,629.63,422.37,21.9,True,2019-07-16,32.92
+PROD-77859119,QuickFit Smartphones Model-580,CAT-001,Electronics,Smartphones,Natureco,SKU-605669,804.8,540.4,8.41,True,2023-05-16,32.85
+PROD-D4EF4EF8,KidsWorld Skincare Model-298,CAT-015,Beauty,Skincare,Styleco,SKU-552361,566.16,368.38,17.96,True,2023-03-13,34.93
+PROD-FD084764,KidsWorld Furniture Model-793,CAT-008,Home & Garden,Furniture,Luxbrand,SKU-130233,684.4,337.21,20.79,True,2018-05-06,50.73
+PROD-600CDE68,StyleCo Outdoor Model-397,CAT-011,Sports,Outdoor,Luxbrand,SKU-569664,419.53,164.03,23.99,True,2023-11-02,60.9
+PROD-79A38775,ValuePick Tablets Model-128,CAT-003,Electronics,Tablets,Quickfit,SKU-624381,1130.76,678.45,6.55,True,2021-09-21,40.0
+PROD-04252B99,GadgetHub Organic Model-889,CAT-019,Food,Organic,Glowup,SKU-343195,893.65,537.04,18.38,True,2023-07-22,39.9
+PROD-40D2014D,StyleCo Accessories Model-628,CAT-004,Electronics,Accessories,Readmore,SKU-215315,114.05,70.78,24.61,False,2024-01-06,37.94
+PROD-5F0FBDD9,NatureCo Decor Model-806,CAT-010,Home & Garden,Decor,Quickfit,SKU-986959,377.8,158.59,22.77,True,2022-05-11,58.02
+PROD-C2E4D163,NatureCo Parts Model-388,CAT-020,Automotive,Parts,Homeplus,SKU-902270,985.29,456.23,10.51,False,2019-04-06,53.7
+PROD-48DBF318,LuxBrand Kitchen Model-265,CAT-009,Home & Garden,Kitchen,Luxbrand,SKU-104643,431.56,164.98,2.73,True,2020-07-09,61.77
+PROD-12B5E00D,TechPro Smartphones Model-843,CAT-001,Electronics,Smartphones,Kidsworld,SKU-760253,143.74,65.35,24.74,False,2020-02-23,54.54
+PROD-1389FFBC,GadgetHub Accessories Model-497,CAT-004,Electronics,Accessories,Autoparts,SKU-766747,997.96,436.0,4.18,False,2022-07-01,56.31
+PROD-0151E96C,KidsWorld Tablets Model-305,CAT-003,Electronics,Tablets,Glowup,SKU-870028,137.33,52.81,20.92,True,2018-09-18,61.55
+PROD-98485933,EcoLife Decor Model-693,CAT-010,Home & Garden,Decor,Glowup,SKU-491106,1450.88,512.88,23.18,True,2023-10-14,64.65
+PROD-35337371,TechPro Skincare Model-286,CAT-015,Beauty,Skincare,Glowup,SKU-966597,1306.31,775.22,1.21,True,2024-03-22,40.66
+PROD-8D26D1A2,HomePlus Men's Wear Model-361,CAT-005,Clothing,Men's Wear,Sportzen,SKU-115603,858.62,410.13,18.84,True,2022-12-01,52.23
+PROD-AAA13DB0,QuickFit Fiction Model-996,CAT-013,Books,Fiction,Autoparts,SKU-174699,1015.98,509.33,1.08,True,2019-04-05,49.87
+PROD-EF4881F9,QuickFit Fitness Model-546,CAT-012,Sports,Fitness,Trendset,SKU-165956,762.96,416.58,14.51,True,2019-06-21,45.4
+PROD-447C473F,StyleCo Tablets Model-951,CAT-003,Electronics,Tablets,Techpro,SKU-631956,1944.59,792.75,15.66,False,2022-08-02,59.23
+PROD-18544AC4,SportZen Furniture Model-950,CAT-008,Home & Garden,Furniture,Kidsworld,SKU-635028,1866.99,917.79,0.22,False,2018-06-21,50.84
+PROD-E70CB852,TrendSet Action Figures Model-587,CAT-018,Toys,Action Figures,Glowup,SKU-585052,416.0,212.92,9.0,True,2023-10-31,48.82
+PROD-06B21EC7,StyleCo Fiction Model-215,CAT-013,Books,Fiction,Techpro,SKU-258888,1232.39,550.73,24.43,True,2021-01-07,55.31
+PROD-8D1DF671,QuickFit Tablets Model-773,CAT-003,Electronics,Tablets,Valuepick,SKU-752848,593.38,291.67,21.57,True,2019-06-20,50.85
+PROD-42DAD706,SportZen Action Figures Model-719,CAT-018,Toys,Action Figures,Gadgethub,SKU-408269,1537.09,814.31,5.57,False,2021-06-15,47.02
+PROD-A7718461,HomePlus Outdoor Model-798,CAT-011,Sports,Outdoor,Autoparts,SKU-356315,208.52,139.69,18.79,True,2022-08-10,33.01
+PROD-C5BC56DD,HomePlus Fitness Model-141,CAT-012,Sports,Fitness,Autoparts,SKU-728152,676.1,370.0,12.6,True,2022-03-04,45.27
+PROD-2003C0BF,NatureCo Furniture Model-333,CAT-008,Home & Garden,Furniture,Readmore,SKU-762659,71.24,46.53,15.44,False,2018-05-11,34.69
+PROD-C594110D,NatureCo Makeup Model-330,CAT-016,Beauty,Makeup,Styleco,SKU-429871,49.93,29.45,8.11,True,2018-12-09,41.02
+PROD-FD80227C,AutoParts Fiction Model-718,CAT-013,Books,Fiction,Kidsworld,SKU-419672,240.28,104.36,6.73,True,2023-04-19,56.57
+PROD-BF2AFE70,GlowUp Tablets Model-388,CAT-003,Electronics,Tablets,Ecolife,SKU-107035,352.67,212.63,12.12,True,2019-01-14,39.71
+PROD-7050FCA3,GlowUp Parts Model-826,CAT-020,Automotive,Parts,Homeplus,SKU-644613,797.46,350.78,10.55,True,2020-04-04,56.01
+PROD-BD03C19E,TechPro Accessories Model-292,CAT-004,Electronics,Accessories,Homeplus,SKU-317090,1989.75,1324.81,18.91,True,2019-01-16,33.42
+PROD-781CBE65,KidsWorld Laptops Model-307,CAT-002,Electronics,Laptops,Glowup,SKU-710609,1251.22,661.03,12.24,True,2023-10-28,47.17
+PROD-368D9A56,QuickFit Tablets Model-868,CAT-003,Electronics,Tablets,Ecolife,SKU-672727,1654.2,1108.82,10.02,False,2024-05-17,32.97
+PROD-47CEBFDC,KidsWorld Tablets Model-889,CAT-003,Electronics,Tablets,Techpro,SKU-195845,1274.8,734.58,12.49,True,2020-01-28,42.38
+PROD-38B497C9,QuickFit Kitchen Model-839,CAT-009,Home & Garden,Kitchen,Sportzen,SKU-212987,1905.22,816.96,18.28,True,2022-04-08,57.12
+PROD-CDADFA53,ReadMore Fiction Model-296,CAT-013,Books,Fiction,Natureco,SKU-167317,1117.73,514.29,4.68,False,2023-12-28,53.99
+PROD-99CFFE06,ValuePick Organic Model-657,CAT-019,Food,Organic,Valuepick,SKU-260925,57.64,21.39,13.75,True,2018-02-22,62.89
+PROD-9C21961B,HomePlus Makeup Model-465,CAT-016,Beauty,Makeup,Styleco,SKU-732483,790.08,368.43,7.29,False,2023-11-09,53.37
+PROD-FA33E31B,SportZen Makeup Model-306,CAT-016,Beauty,Makeup,Sportzen,SKU-933320,679.89,468.22,13.57,True,2021-03-26,31.13
+PROD-B73FD82D,ValuePick Fiction Model-217,CAT-013,Books,Fiction,Glowup,SKU-467428,61.33,34.53,17.29,False,2022-03-30,43.7
+PROD-DB80A14B,GlowUp Fitness Model-362,CAT-012,Sports,Fitness,Readmore,SKU-735774,1301.81,531.76,15.06,False,2023-01-18,59.15
+PROD-224FA142,ReadMore Laptops Model-472,CAT-002,Electronics,Laptops,Glowup,SKU-541076,1380.81,648.25,10.48,True,2024-03-02,53.05
+PROD-0805F848,GlowUp Fitness Model-383,CAT-012,Sports,Fitness,Homeplus,SKU-626030,953.88,486.92,8.46,True,2018-10-16,48.95
+PROD-32424786,StyleCo Outdoor Model-524,CAT-011,Sports,Outdoor,Natureco,SKU-132186,1080.05,607.76,1.99,True,2021-12-25,43.73
+PROD-F985E957,TrendSet Parts Model-466,CAT-020,Automotive,Parts,Kidsworld,SKU-936035,624.66,377.24,21.88,True,2022-01-01,39.61
+PROD-C78C4ECB,TrendSet Women's Wear Model-509,CAT-006,Clothing,Women's Wear,Valuepick,SKU-915839,219.2,130.07,21.94,False,2020-08-30,40.66
+PROD-385D425D,EcoLife Kitchen Model-291,CAT-009,Home & Garden,Kitchen,Autoparts,SKU-528216,455.32,239.97,12.7,True,2020-12-26,47.3
+PROD-F00C99E7,GlowUp Smartphones Model-653,CAT-001,Electronics,Smartphones,Homeplus,SKU-659582,1553.06,833.24,1.41,False,2024-05-14,46.35
+PROD-6480ED89,GlowUp Men's Wear Model-132,CAT-005,Clothing,Men's Wear,Quickfit,SKU-946804,1002.09,481.28,4.89,True,2023-05-01,51.97
+PROD-23902FB6,SportZen Furniture Model-903,CAT-008,Home & Garden,Furniture,Autoparts,SKU-766146,942.26,571.88,14.88,True,2020-11-29,39.31
+PROD-44132944,TrendSet Action Figures Model-211,CAT-018,Toys,Action Figures,Luxbrand,SKU-246729,1998.7,1234.22,3.44,True,2022-08-23,38.25
+PROD-EFEB946B,KidsWorld Outdoor Model-559,CAT-011,Sports,Outdoor,Quickfit,SKU-914565,1477.06,533.32,13.13,False,2018-05-18,63.89
+PROD-68BEF712,AutoParts Furniture Model-331,CAT-008,Home & Garden,Furniture,Luxbrand,SKU-245510,1238.81,775.76,22.89,True,2019-10-12,37.38
+PROD-0AC72667,QuickFit Laptops Model-678,CAT-002,Electronics,Laptops,Techpro,SKU-280519,936.14,646.85,15.42,True,2021-12-02,30.9
+PROD-BA6F4B0C,ValuePick Action Figures Model-882,CAT-018,Toys,Action Figures,Luxbrand,SKU-271859,1779.99,723.22,23.78,False,2020-11-11,59.37
+PROD-916ED3E1,ValuePick Laptops Model-221,CAT-002,Electronics,Laptops,Sportzen,SKU-430524,77.28,53.22,16.36,True,2023-01-07,31.13
+PROD-9DFC6122,EcoLife Fitness Model-615,CAT-012,Sports,Fitness,Gadgethub,SKU-840445,1733.95,1211.15,5.47,True,2020-12-24,30.15
+PROD-462CD125,AutoParts Makeup Model-334,CAT-016,Beauty,Makeup,Glowup,SKU-701326,1576.22,1000.7,8.3,True,2020-08-22,36.51
+PROD-F7A31305,GlowUp Decor Model-541,CAT-010,Home & Garden,Decor,Techpro,SKU-426488,1515.78,1035.55,24.41,True,2022-03-14,31.68
+PROD-91752158,KidsWorld Fiction Model-376,CAT-013,Books,Fiction,Autoparts,SKU-147711,696.12,404.49,20.47,False,2018-03-27,41.89
+PROD-F746A4BF,TechPro Tablets Model-470,CAT-003,Electronics,Tablets,Readmore,SKU-888140,1563.11,846.59,16.24,False,2019-12-14,45.84
+PROD-135A6F75,TrendSet Outdoor Model-708,CAT-011,Sports,Outdoor,Valuepick,SKU-984042,1412.38,629.63,4.13,True,2023-09-16,55.42
+PROD-81DC308A,LuxBrand Decor Model-967,CAT-010,Home & Garden,Decor,Valuepick,SKU-931498,872.76,491.88,6.49,True,2023-07-13,43.64
+PROD-02B2C840,GadgetHub Educational Model-159,CAT-017,Toys,Educational,Quickfit,SKU-332148,1981.2,1031.32,24.53,True,2019-11-07,47.94
+PROD-78ED3560,AutoParts Men's Wear Model-292,CAT-005,Clothing,Men's Wear,Ecolife,SKU-548734,536.22,241.09,9.88,False,2019-08-18,55.04
+PROD-6BB61EBF,TrendSet Skincare Model-297,CAT-015,Beauty,Skincare,Homeplus,SKU-112419,1027.14,688.86,15.21,True,2019-12-22,32.93
+PROD-77F2AD22,QuickFit Women's Wear Model-271,CAT-006,Clothing,Women's Wear,Quickfit,SKU-700838,1892.07,1137.82,21.24,True,2021-12-03,39.86
+PROD-1DC95744,KidsWorld Outdoor Model-814,CAT-011,Sports,Outdoor,Luxbrand,SKU-533251,1349.29,676.43,2.61,True,2018-11-17,49.87
+PROD-0A3F0E4F,TechPro Non-Fiction Model-104,CAT-014,Books,Non-Fiction,Readmore,SKU-752433,1218.36,795.05,10.11,False,2023-06-21,34.74
+PROD-B6E22D0B,KidsWorld Laptops Model-194,CAT-002,Electronics,Laptops,Kidsworld,SKU-558313,1046.6,450.26,14.32,True,2020-07-11,56.98
+PROD-BA601556,TechPro Furniture Model-585,CAT-008,Home & Garden,Furniture,Homeplus,SKU-664778,364.97,171.15,22.85,False,2020-10-07,53.11
+PROD-9EE64D16,TechPro Educational Model-926,CAT-017,Toys,Educational,Autoparts,SKU-853132,1642.0,601.87,23.44,True,2021-05-02,63.35
+PROD-C717F521,ReadMore Makeup Model-865,CAT-016,Beauty,Makeup,Valuepick,SKU-718271,1744.62,938.86,2.98,True,2022-11-09,46.19
+PROD-900EB4D1,GadgetHub Smartphones Model-572,CAT-001,Electronics,Smartphones,Kidsworld,SKU-691807,1259.37,825.87,5.83,True,2022-09-19,34.42
+PROD-0C568A93,TrendSet Kids Model-942,CAT-007,Clothing,Kids,Quickfit,SKU-924022,1410.66,952.14,5.71,False,2023-02-19,32.5
+PROD-0C9979E6,SportZen Men's Wear Model-790,CAT-005,Clothing,Men's Wear,Valuepick,SKU-913439,39.0,16.39,14.04,True,2019-04-28,57.97
+PROD-696B3CFD,EcoLife Educational Model-754,CAT-017,Toys,Educational,Ecolife,SKU-563846,303.48,169.22,0.57,True,2022-01-25,44.24
+PROD-AE48DC6D,StyleCo Fiction Model-390,CAT-013,Books,Fiction,Natureco,SKU-239753,1007.92,512.39,7.91,True,2020-08-15,49.16
+PROD-592BEFCF,SportZen Men's Wear Model-304,CAT-005,Clothing,Men's Wear,Quickfit,SKU-807929,652.28,408.19,14.0,False,2021-05-31,37.42
+PROD-84845B89,KidsWorld Outdoor Model-511,CAT-011,Sports,Outdoor,Techpro,SKU-447663,1271.7,658.33,23.75,True,2021-10-02,48.23
+PROD-9E907128,QuickFit Educational Model-481,CAT-017,Toys,Educational,Readmore,SKU-610475,324.17,205.31,6.82,True,2021-03-01,36.67
+PROD-858AB4F9,GlowUp Makeup Model-282,CAT-016,Beauty,Makeup,Readmore,SKU-744350,1991.43,1332.76,10.38,False,2019-05-17,33.08
+PROD-AD3C00CE,TrendSet Fiction Model-355,CAT-013,Books,Fiction,Sportzen,SKU-429663,1173.87,447.49,0.52,True,2020-12-18,61.88
+PROD-B3F86351,TechPro Educational Model-847,CAT-017,Toys,Educational,Sportzen,SKU-987224,1530.76,957.98,16.43,True,2021-10-18,37.42
+PROD-56F31BB3,GlowUp Fitness Model-463,CAT-012,Sports,Fitness,Valuepick,SKU-546484,805.92,426.78,16.41,True,2023-04-10,47.04
+PROD-A83E8E31,SportZen Men's Wear Model-419,CAT-005,Clothing,Men's Wear,Homeplus,SKU-102880,948.19,591.95,6.33,True,2023-03-31,37.57
+PROD-DF8EED40,GadgetHub Furniture Model-114,CAT-008,Home & Garden,Furniture,Kidsworld,SKU-805479,1977.56,1113.05,22.16,True,2019-04-05,43.72
+PROD-683DCBFD,ReadMore Women's Wear Model-431,CAT-006,Clothing,Women's Wear,Kidsworld,SKU-831087,1220.83,823.41,10.77,True,2019-07-28,32.55
+PROD-5A46DDE5,ValuePick Educational Model-100,CAT-017,Toys,Educational,Styleco,SKU-744033,350.73,231.62,22.9,True,2023-09-28,33.96
+PROD-7F7F55BF,KidsWorld Kitchen Model-284,CAT-009,Home & Garden,Kitchen,Ecolife,SKU-641727,58.52,39.52,7.95,True,2021-01-20,32.47
+PROD-17FD477B,NatureCo Furniture Model-654,CAT-008,Home & Garden,Furniture,Valuepick,SKU-357865,1539.68,634.45,15.25,True,2022-04-13,58.79
+PROD-B0B91340,HomePlus Kids Model-909,CAT-007,Clothing,Kids,Glowup,SKU-449938,1403.41,750.44,15.01,False,2018-07-28,46.53
+PROD-723AAB36,LuxBrand Educational Model-660,CAT-017,Toys,Educational,Sportzen,SKU-279941,1115.37,753.22,12.79,True,2021-04-19,32.47
+PROD-D81A8A9B,TrendSet Non-Fiction Model-255,CAT-014,Books,Non-Fiction,Ecolife,SKU-881286,1509.53,597.43,21.98,True,2019-05-12,60.42
+PROD-E4563851,TrendSet Outdoor Model-302,CAT-011,Sports,Outdoor,Homeplus,SKU-869830,646.5,329.33,10.96,False,2023-02-07,49.06
+PROD-1314410E,GadgetHub Non-Fiction Model-860,CAT-014,Books,Non-Fiction,Kidsworld,SKU-656912,1704.51,1016.31,15.54,True,2021-08-17,40.38
+PROD-1F4ED969,AutoParts Furniture Model-737,CAT-008,Home & Garden,Furniture,Sportzen,SKU-977238,916.92,448.19,0.14,True,2023-10-27,51.12
+PROD-76FB4918,TrendSet Accessories Model-435,CAT-004,Electronics,Accessories,Gadgethub,SKU-904061,124.9,75.08,18.87,False,2022-01-08,39.89
+PROD-7FF8BD17,ReadMore Decor Model-802,CAT-010,Home & Garden,Decor,Natureco,SKU-122526,1304.5,755.25,16.04,True,2022-02-17,42.1
+PROD-482713AE,NatureCo Smartphones Model-581,CAT-001,Electronics,Smartphones,Kidsworld,SKU-214139,1422.33,919.36,21.0,True,2018-12-23,35.36
+PROD-34E2FB5A,SportZen Fitness Model-353,CAT-012,Sports,Fitness,Autoparts,SKU-979947,1329.19,522.97,16.05,False,2023-08-26,60.65
+PROD-E4E6FB9B,TechPro Kitchen Model-149,CAT-009,Home & Garden,Kitchen,Sportzen,SKU-915754,1778.77,1116.85,3.23,False,2021-05-15,37.21
+PROD-DBC7122D,EcoLife Furniture Model-150,CAT-008,Home & Garden,Furniture,Readmore,SKU-844716,156.18,98.93,7.18,True,2019-01-03,36.66
+PROD-ECC2D989,GlowUp Fiction Model-297,CAT-013,Books,Fiction,Natureco,SKU-399749,846.18,551.58,8.28,True,2021-05-20,34.82
+PROD-D2278948,ValuePick Educational Model-334,CAT-017,Toys,Educational,Sportzen,SKU-327552,1650.96,708.37,4.94,True,2020-04-10,57.09
+PROD-C019937A,ValuePick Educational Model-775,CAT-017,Toys,Educational,Valuepick,SKU-187874,1943.77,1348.18,15.74,True,2021-12-14,30.64
+PROD-D2AB3395,SportZen Kids Model-387,CAT-007,Clothing,Kids,Styleco,SKU-107351,1895.89,784.68,5.97,True,2024-02-12,58.61
+PROD-B51E3A7C,ValuePick Fitness Model-323,CAT-012,Sports,Fitness,Natureco,SKU-154025,1993.54,1364.41,0.84,True,2023-01-14,31.56
+PROD-3AC55CEB,NatureCo Smartphones Model-502,CAT-001,Electronics,Smartphones,Natureco,SKU-294048,113.97,57.47,4.4,True,2023-10-09,49.57
+PROD-975D0A9D,LuxBrand Kids Model-206,CAT-007,Clothing,Kids,Trendset,SKU-926308,802.7,449.78,21.54,True,2023-05-24,43.97
+PROD-23A40B66,EcoLife Smartphones Model-732,CAT-001,Electronics,Smartphones,Natureco,SKU-257941,264.89,172.33,11.12,True,2024-01-14,34.94
+PROD-CAF57F6C,SportZen Laptops Model-795,CAT-002,Electronics,Laptops,Techpro,SKU-655913,1921.84,1035.34,8.24,True,2018-03-05,46.13
+PROD-6B20D9B7,GadgetHub Laptops Model-870,CAT-002,Electronics,Laptops,Autoparts,SKU-671926,235.07,154.81,23.05,True,2023-06-27,34.14
+PROD-5C43BEF4,LuxBrand Educational Model-486,CAT-017,Toys,Educational,Homeplus,SKU-993925,1612.57,1058.17,7.29,True,2020-05-11,34.38
+PROD-9BF59F52,QuickFit Accessories Model-731,CAT-004,Electronics,Accessories,Natureco,SKU-263648,479.99,272.34,2.38,False,2019-02-24,43.26
+PROD-42C7A53E,NatureCo Men's Wear Model-754,CAT-005,Clothing,Men's Wear,Quickfit,SKU-578281,1760.42,1073.98,7.9,True,2019-11-16,38.99
+PROD-6966CD67,KidsWorld Men's Wear Model-885,CAT-005,Clothing,Men's Wear,Quickfit,SKU-693835,544.07,331.57,17.8,True,2020-03-02,39.06
+PROD-6E8CB919,NatureCo Laptops Model-305,CAT-002,Electronics,Laptops,Techpro,SKU-405790,1261.81,530.24,5.03,True,2023-10-13,57.98
+PROD-FCC5E07C,QuickFit Furniture Model-267,CAT-008,Home & Garden,Furniture,Homeplus,SKU-441100,70.62,48.93,20.67,False,2021-07-10,30.71
+PROD-EF24CC8C,QuickFit Kitchen Model-132,CAT-009,Home & Garden,Kitchen,Kidsworld,SKU-394294,157.56,81.53,15.97,True,2021-05-05,48.25
+PROD-EA6BDC4E,ValuePick Educational Model-701,CAT-017,Toys,Educational,Quickfit,SKU-479847,1529.62,828.02,15.1,False,2023-01-26,45.87
+PROD-D24F142D,AutoParts Fitness Model-585,CAT-012,Sports,Fitness,Homeplus,SKU-971186,1035.31,422.83,23.51,True,2021-11-23,59.16
+PROD-3F380662,NatureCo Organic Model-207,CAT-019,Food,Organic,Quickfit,SKU-498046,1618.12,876.04,6.97,True,2019-07-26,45.86
+PROD-6DA5FB7C,HomePlus Smartphones Model-952,CAT-001,Electronics,Smartphones,Styleco,SKU-249551,1137.69,669.33,15.48,True,2021-08-14,41.17
+PROD-9FDA90A1,HomePlus Smartphones Model-480,CAT-001,Electronics,Smartphones,Trendset,SKU-597785,1673.08,1074.88,21.95,True,2018-12-15,35.75
+PROD-C95CA11C,QuickFit Parts Model-559,CAT-020,Automotive,Parts,Ecolife,SKU-579239,369.51,243.97,22.57,True,2022-10-02,33.97
+PROD-563602D3,TrendSet Men's Wear Model-412,CAT-005,Clothing,Men's Wear,Natureco,SKU-415055,1874.48,948.67,18.76,True,2024-01-04,49.39
+PROD-A1DCCD3E,TechPro Accessories Model-922,CAT-004,Electronics,Accessories,Valuepick,SKU-884121,118.02,82.6,14.16,False,2023-09-30,30.01
+PROD-9EC82AFF,SportZen Accessories Model-876,CAT-004,Electronics,Accessories,Autoparts,SKU-410089,1535.81,606.5,10.56,True,2019-06-12,60.51
+PROD-19157239,KidsWorld Smartphones Model-606,CAT-001,Electronics,Smartphones,Glowup,SKU-499861,925.44,470.51,10.06,False,2021-05-11,49.16
+PROD-33C547C4,StyleCo Furniture Model-638,CAT-008,Home & Garden,Furniture,Luxbrand,SKU-169807,1470.53,1003.14,9.09,True,2018-01-27,31.78
+PROD-BAC61D5C,GlowUp Action Figures Model-177,CAT-018,Toys,Action Figures,Trendset,SKU-348742,1374.35,681.01,8.16,True,2018-07-05,50.45
+PROD-88EE82E5,GadgetHub Skincare Model-671,CAT-015,Beauty,Skincare,Natureco,SKU-406886,795.67,414.14,16.92,False,2021-05-04,47.95
+PROD-6EF77DCB,TechPro Men's Wear Model-459,CAT-005,Clothing,Men's Wear,Autoparts,SKU-131624,398.25,176.52,13.17,True,2018-07-09,55.68
+PROD-34963288,StyleCo Organic Model-639,CAT-019,Food,Organic,Homeplus,SKU-191151,154.94,70.66,18.55,False,2020-04-01,54.4
+PROD-9097A692,NatureCo Men's Wear Model-104,CAT-005,Clothing,Men's Wear,Luxbrand,SKU-722744,102.2,36.17,9.27,True,2024-04-05,64.61
+PROD-F30879DD,SportZen Smartphones Model-714,CAT-001,Electronics,Smartphones,Autoparts,SKU-230493,203.27,71.25,21.39,False,2020-06-25,64.95
+PROD-072B3521,ValuePick Makeup Model-739,CAT-016,Beauty,Makeup,Sportzen,SKU-784151,1242.7,748.9,17.1,True,2019-11-06,39.74
+PROD-197EF00D,NatureCo Organic Model-936,CAT-019,Food,Organic,Kidsworld,SKU-263557,325.26,206.54,2.31,True,2022-08-05,36.5
+PROD-FA9A969C,SportZen Laptops Model-931,CAT-002,Electronics,Laptops,Valuepick,SKU-960781,644.75,323.83,12.61,False,2020-11-27,49.77
+PROD-DA9196FB,HomePlus Accessories Model-654,CAT-004,Electronics,Accessories,Homeplus,SKU-217689,784.62,345.13,2.56,True,2020-12-31,56.01
+PROD-3D5059FB,HomePlus Parts Model-804,CAT-020,Automotive,Parts,Natureco,SKU-728366,249.12,121.93,4.24,True,2021-11-10,51.06
+PROD-699D3C65,TechPro Action Figures Model-570,CAT-018,Toys,Action Figures,Homeplus,SKU-558535,392.47,138.64,24.65,False,2018-08-07,64.68
+PROD-6665ED67,ReadMore Non-Fiction Model-916,CAT-014,Books,Non-Fiction,Glowup,SKU-938628,277.41,178.6,23.36,True,2019-03-31,35.62
+PROD-0D2B0EC2,TrendSet Educational Model-576,CAT-017,Toys,Educational,Techpro,SKU-257778,1283.21,821.88,22.47,False,2022-11-14,35.95
+PROD-D525FACF,TrendSet Accessories Model-312,CAT-004,Electronics,Accessories,Kidsworld,SKU-461124,1735.58,1207.77,17.11,True,2024-04-04,30.41
+PROD-4FE6AABF,KidsWorld Kitchen Model-882,CAT-009,Home & Garden,Kitchen,Trendset,SKU-932350,421.48,293.66,24.4,True,2024-01-03,30.33
+PROD-8C5DA4F9,StyleCo Action Figures Model-796,CAT-018,Toys,Action Figures,Ecolife,SKU-934758,763.71,357.24,13.28,True,2020-07-03,53.22
+PROD-DD5F8062,AutoParts Kids Model-607,CAT-007,Clothing,Kids,Styleco,SKU-823549,1839.78,1156.88,3.96,True,2019-05-30,37.12
+PROD-BC1590FC,StyleCo Laptops Model-508,CAT-002,Electronics,Laptops,Quickfit,SKU-379584,1298.59,592.78,9.31,True,2019-01-03,54.35
+PROD-F13ECB84,ValuePick Accessories Model-602,CAT-004,Electronics,Accessories,Glowup,SKU-131198,1422.26,980.79,16.48,True,2022-02-08,31.04
+PROD-6535BB32,HomePlus Action Figures Model-156,CAT-018,Toys,Action Figures,Luxbrand,SKU-158775,451.59,174.42,24.74,True,2020-05-09,61.38
+PROD-AC11E8BB,QuickFit Laptops Model-429,CAT-002,Electronics,Laptops,Readmore,SKU-776869,1476.92,750.65,4.43,True,2019-06-30,49.17
+PROD-4546E90F,NatureCo Smartphones Model-347,CAT-001,Electronics,Smartphones,Trendset,SKU-337356,1180.2,802.99,2.92,False,2022-09-27,31.96
+PROD-5C520AD4,StyleCo Men's Wear Model-875,CAT-005,Clothing,Men's Wear,Luxbrand,SKU-272185,60.88,30.69,17.65,True,2019-08-18,49.59
+PROD-C0143194,AutoParts Furniture Model-668,CAT-008,Home & Garden,Furniture,Valuepick,SKU-556676,1134.78,660.02,19.86,False,2020-05-28,41.84
+PROD-C15024F8,SportZen Kids Model-408,CAT-007,Clothing,Kids,Gadgethub,SKU-465553,1225.64,520.52,1.98,True,2023-07-19,57.53
+PROD-A0566A72,GlowUp Parts Model-675,CAT-020,Automotive,Parts,Glowup,SKU-326136,1971.58,1275.97,14.45,True,2020-11-26,35.28
+PROD-83ED5DAE,AutoParts Smartphones Model-928,CAT-001,Electronics,Smartphones,Readmore,SKU-574542,315.27,174.41,10.36,True,2019-03-06,44.68
